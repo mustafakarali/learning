@@ -1,0 +1,261 @@
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 80
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 84
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 88
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[21-Nov-2013 00:57:15 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 80
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 84
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 88
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[21-Nov-2013 01:08:19 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 80
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 84
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 88
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:49:59 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 80
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 84
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 88
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 02:54:39 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/fernfern/instructor/classInformation.php on line 92
+[23-Nov-2013 07:35:09 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/fernfern/instructor/changePassword.php on line 121
+[23-Nov-2013 07:42:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/fernfern/instructor/changePassword.php on line 121
+[23-Nov-2013 07:42:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/fernfern/instructor/changePassword.php on line 121
+[23-Nov-2013 07:43:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/fernfern/instructor/changePassword.php on line 121
+[23-Nov-2013 20:21:12 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 6
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/fernfern/instructor/includes/navbar.php on line 38
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/fernfern/instructor/includes/navbar.php on line 38
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/fernfern/instructor/includes/navbar.php on line 38
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: id in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 102
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 108
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 114
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 120
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: gender in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 126
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: contact in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 152
+[23-Dec-2013 07:45:18 America/Denver] PHP Notice:  Undefined variable: email in /home3/jetextst/public_html/fern/fernfern/instructor/profile.php on line 158
+[06-Jan-2014 23:38:23 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 19 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 192
+[06-Jan-2014 23:38:23 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 24 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 192
+[06-Jan-2014 23:38:33 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 21 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 192
+[06-Jan-2014 23:38:33 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 26 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 192
+[07-Jan-2014 00:19:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 204 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 317
+[07-Jan-2014 00:19:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 209 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 317
+[07-Jan-2014 00:19:18 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 214 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 414
+[07-Jan-2014 00:19:28 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 39 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 317
+[07-Jan-2014 00:19:28 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 44 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 317
+[07-Jan-2014 00:01:52 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 277
+[07-Jan-2014 08:05:33 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home3/jetextst/public_html/fern/instructor/activity.php on line 383
+[07-Jan-2014 08:05:33 Etc/GMT] PHP Notice:  Undefined variable: abc in /home3/jetextst/public_html/fern/instructor/activity.php on line 520
+[07-Jan-2014 08:05:33 Etc/GMT] PHP Notice:  Undefined variable: size in /home3/jetextst/public_html/fern/instructor/activity.php on line 552
+[07-Jan-2014 08:06:06 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home3/jetextst/public_html/fern/instructor/activity.php on line 383
+[07-Jan-2014 08:06:06 Etc/GMT] PHP Notice:  Undefined variable: abc in /home3/jetextst/public_html/fern/instructor/activity.php on line 520
+[07-Jan-2014 08:06:06 Etc/GMT] PHP Notice:  Undefined variable: size in /home3/jetextst/public_html/fern/instructor/activity.php on line 552
+[07-Jan-2014 08:06:21 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home3/jetextst/public_html/fern/instructor/activity.php on line 383
+[07-Jan-2014 08:06:21 Etc/GMT] PHP Notice:  Undefined variable: abc in /home3/jetextst/public_html/fern/instructor/activity.php on line 520
+[07-Jan-2014 08:06:21 Etc/GMT] PHP Notice:  Undefined variable: size in /home3/jetextst/public_html/fern/instructor/activity.php on line 552
+[07-Jan-2014 08:07:39 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home3/jetextst/public_html/fern/instructor/activity.php on line 383
+[07-Jan-2014 08:07:39 Etc/GMT] PHP Notice:  Undefined variable: abc in /home3/jetextst/public_html/fern/instructor/activity.php on line 520
+[07-Jan-2014 08:07:39 Etc/GMT] PHP Notice:  Undefined variable: size in /home3/jetextst/public_html/fern/instructor/activity.php on line 552
+[07-Jan-2014 08:07:39 Etc/GMT] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/activity.php on line 587
+[07-Jan-2014 08:08:02 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home3/jetextst/public_html/fern/instructor/activity.php on line 383
+[07-Jan-2014 08:08:02 Etc/GMT] PHP Notice:  Undefined variable: abc in /home3/jetextst/public_html/fern/instructor/activity.php on line 520
+[07-Jan-2014 08:08:02 Etc/GMT] PHP Notice:  Undefined variable: size in /home3/jetextst/public_html/fern/instructor/activity.php on line 552
+[07-Jan-2014 00:09:54 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 277
+[07-Jan-2014 09:55:06 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 5
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: id in /home3/jetextst/public_html/fern/instructor/profile.php on line 116
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/profile.php on line 122
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/profile.php on line 128
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/profile.php on line 134
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: gender in /home3/jetextst/public_html/fern/instructor/profile.php on line 140
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: contact in /home3/jetextst/public_html/fern/instructor/profile.php on line 166
+[07-Jan-2014 13:55:00 America/Denver] PHP Notice:  Undefined variable: email in /home3/jetextst/public_html/fern/instructor/profile.php on line 172
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: id in /home3/jetextst/public_html/fern/instructor/profile.php on line 116
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/profile.php on line 122
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/profile.php on line 128
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/profile.php on line 134
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: gender in /home3/jetextst/public_html/fern/instructor/profile.php on line 140
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: contact in /home3/jetextst/public_html/fern/instructor/profile.php on line 166
+[07-Jan-2014 13:55:03 America/Denver] PHP Notice:  Undefined variable: email in /home3/jetextst/public_html/fern/instructor/profile.php on line 172
+[07-Jan-2014 14:21:51 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 277
+[07-Jan-2014 18:46:36 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 18:46:36 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 19 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 18:46:36 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 24 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:01:04 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 14 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:01:04 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 19 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:01:04 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 24 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:04:50 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 16 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:04:50 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 21 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:04:50 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 26 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 189
+[07-Jan-2014 19:24:43 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/jetextst/public_html/fern/instructor/records.php on line 350
+[07-Jan-2014 19:24:46 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/jetextst/public_html/fern/instructor/records.php on line 350
+[07-Jan-2014 19:59:13 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/jetextst/public_html/fern/instructor/pm.php on line 307
+[07-Jan-2014 19:59:49 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/jetextst/public_html/fern/instructor/pm.php on line 307
+[07-Jan-2014 19:59:50 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/jetextst/public_html/fern/instructor/pm.php on line 307
+[07-Jan-2014 20:00:03 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home3/jetextst/public_html/fern/instructor/pm.php on line 302
+[07-Jan-2014 20:00:27 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/jetextst/public_html/fern/instructor/pm.php on line 300
+[07-Jan-2014 20:00:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/instructor/pm.php on line 367
+[07-Jan-2014 20:00:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/instructor/pm.php on line 367
+[07-Jan-2014 21:01:02 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/index.php on line 4
+[07-Jan-2014 21:11:44 America/Denver] PHP Parse error:  syntax error, unexpected 'control' (T_STRING) in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 63
+[07-Jan-2014 21:11:51 America/Denver] PHP Parse error:  syntax error, unexpected 'control' (T_STRING) in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 63
+[07-Jan-2014 21:12:02 America/Denver] PHP Parse error:  syntax error, unexpected 'control' (T_STRING) in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 63
+[07-Jan-2014 21:12:34 America/Denver] PHP Parse error:  syntax error, unexpected 'control' (T_STRING) in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 63
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 84
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 88
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: unit in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 92
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 96
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: room in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 100
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: day in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: time in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:18 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 84
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 88
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: unit in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 92
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 96
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: room in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 100
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: day in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: time in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:33 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 84
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 88
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: unit in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 92
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 96
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: room in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 100
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: day in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: time in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[08-Jan-2014 22:48:36 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[13-Jan-2014 11:05:34 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home3/jetextst/public_html/fern/instructor/records.php on line 617
+[13-Jan-2014 11:05:37 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home3/jetextst/public_html/fern/instructor/records.php on line 617
+[14-Jan-2014 07:21:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 282
+[14-Jan-2014 07:21:42 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 282
+[14-Jan-2014 07:22:07 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 282
+[16-Jan-2014 03:51:37 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 282
+[16-Jan-2014 04:00:59 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/index.php on line 4
+[16-Jan-2014 04:37:24 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 124 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[16-Jan-2014 04:37:24 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 239 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[16-Jan-2014 04:37:24 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 354 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[16-Jan-2014 04:37:39 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 124 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[16-Jan-2014 04:37:39 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 239 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[16-Jan-2014 04:37:39 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 354 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 181
+[20-Jan-2014 06:12:18 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/profile.php on line 6
+[21-Jan-2014 19:32:51 America/Denver] PHP Notice:  Undefined index: classID in /home3/jetextst/public_html/fern/instructor/includes/classMenu.php on line 8
+[21-Jan-2014 19:32:51 America/Denver] PHP Notice:  Undefined variable: sked_day in /home3/jetextst/public_html/fern/instructor/attendance.php on line 24
+[21-Jan-2014 19:32:51 America/Denver] PHP Notice:  Undefined variable: section in /home3/jetextst/public_html/fern/instructor/attendance.php on line 112
+[21-Jan-2014 19:32:51 America/Denver] PHP Notice:  Undefined variable: course in /home3/jetextst/public_html/fern/instructor/attendance.php on line 112
+[21-Jan-2014 19:32:51 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 12 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 282
+[09-Feb-2014 04:16:10 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/profile.php on line 6
+[09-Feb-2014 04:16:17 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/index.php on line 4
+[09-Feb-2014 04:16:28 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/profile.php on line 6
+[09-Feb-2014 04:16:44 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/instructor/profile.php on line 6
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined index: username in /home3/jetextst/public_html/fern/instructor/profile.php on line 10
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: id in /home3/jetextst/public_html/fern/instructor/profile.php on line 116
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/profile.php on line 122
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/profile.php on line 128
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/profile.php on line 134
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: gender in /home3/jetextst/public_html/fern/instructor/profile.php on line 140
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: contact in /home3/jetextst/public_html/fern/instructor/profile.php on line 166
+[09-Feb-2014 06:37:15 America/Denver] PHP Notice:  Undefined variable: email in /home3/jetextst/public_html/fern/instructor/profile.php on line 172
+[09-Feb-2014 06:39:16 America/Denver] PHP Notice:  Undefined index: username in /home3/jetextst/public_html/fern/instructor/profile.php on line 10
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 35
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: id in /home3/jetextst/public_html/fern/instructor/profile.php on line 116
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/instructor/profile.php on line 122
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: mname in /home3/jetextst/public_html/fern/instructor/profile.php on line 128
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/instructor/profile.php on line 134
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: gender in /home3/jetextst/public_html/fern/instructor/profile.php on line 140
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: contact in /home3/jetextst/public_html/fern/instructor/profile.php on line 166
+[09-Feb-2014 06:39:17 America/Denver] PHP Notice:  Undefined variable: email in /home3/jetextst/public_html/fern/instructor/profile.php on line 172
+[09-Feb-2014 07:50:45 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 324
+[09-Feb-2014 08:18:09 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 324
+[25-Feb-2014 23:38:33 Etc/GMT+8] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/fern/instructor/createActivity.php on line 324
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 84
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 88
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: unit in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 92
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 96
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: room in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 100
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: day in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: time in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 104
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[11-Mar-2014 07:51:10 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/instructor/classInformation.php on line 108
+[11-Mar-2014 13:51:16 Etc/GMT] PHP Notice:  Undefined variable: query_Smonth in /home3/jetextst/public_html/fern/instructor/activity.php on line 32
+[11-Mar-2014 13:51:16 Etc/GMT] PHP Notice:  Undefined variable: query_Sday in /home3/jetextst/public_html/fern/instructor/activity.php on line 32
+[11-Mar-2014 13:51:16 Etc/GMT] PHP Notice:  Undefined variable: query_Emonth in /home3/jetextst/public_html/fern/instructor/activity.php on line 33
+[11-Mar-2014 13:51:16 Etc/GMT] PHP Notice:  Undefined variable: query_Eday in /home3/jetextst/public_html/fern/instructor/activity.php on line 33
+[11-Mar-2014 21:19:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[11-Mar-2014 21:19:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[11-Mar-2014 21:19:32 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 40 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 185
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 71 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 185
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 102 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 185
+[13-Mar-2014 00:39:56 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[15-Mar-2014 04:09:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[15-Mar-2014 04:09:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[15-Mar-2014 04:09:57 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:35:27 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:35:27 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:35:27 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:36:44 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:36:44 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:36:44 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:40:40 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:40:40 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[18-Mar-2014 20:40:40 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 05:08:05 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:08:05 America/Denver] PHP Notice:  Undefined variable: insID in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:08:05 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:08:05 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:08:10 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:08:10 America/Denver] PHP Notice:  Undefined variable: insID in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:08:10 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:08:10 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:15:46 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:15:46 America/Denver] PHP Notice:  Undefined variable: insID in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:15:46 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:15:46 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:16:13 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:16:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home3/jetextst/public_html/fern/instructor/summary.php on line 4
+[20-Mar-2014 05:16:24 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:16:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home3/jetextst/public_html/fern/instructor/summary.php on line 4
+[20-Mar-2014 05:17:50 America/Denver] PHP Warning:  include(): Failed opening 'includes/dbcon.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/instructor/summary.php on line 3
+[20-Mar-2014 05:17:50 America/Denver] PHP Notice:  Undefined variable: insID in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:17:50 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 05:17:50 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/jetextst/public_html/fern/instructor/includes/navbar.php on line 2
+[20-Mar-2014 07:37:32 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/jetextst/public_html/fern/instructor/attendance.php on line 448
+[20-Mar-2014 07:37:37 America/Denver] PHP Parse error:  syntax error, unexpected '=' in /home3/jetextst/public_html/fern/instructor/attendance.php on line 448
+[20-Mar-2014 07:40:49 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 453
+[20-Mar-2014 07:43:20 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 451
+[20-Mar-2014 07:43:29 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 451
+[20-Mar-2014 07:43:35 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 451
+[20-Mar-2014 07:46:09 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 452
+[20-Mar-2014 07:46:13 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 452
+[20-Mar-2014 07:46:16 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 452
+[20-Mar-2014 07:46:30 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 07:46:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 07:46:31 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 07:46:55 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 42 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 07:46:55 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 73 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 07:46:55 America/Denver] PHP Warning:  mysql_result(): Unable to jump to row 0 on MySQL result index 104 in /home3/jetextst/public_html/fern/instructor/attendance.php on line 190
+[20-Mar-2014 22:32:58 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 452
+[20-Mar-2014 22:33:08 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/jetextst/public_html/fern/instructor/attendance.php:157) in /home3/jetextst/public_html/fern/instructor/attendance.php on line 452

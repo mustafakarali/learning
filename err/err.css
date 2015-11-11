@@ -1,0 +1,137 @@
+/*
+	styles for the 404.php - that clever error page..
+
+		http://corz.org/engine?section=php
+
+	this stylesheet is freely released under the creative commons license..
+
+		http://creativecommons.org/licenses/by-nc-sa/1.0/
+
+	(c) corz.org 2004 ->today
+*/
+
+body {
+	font-size: 0.9em;
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, "Lucida Grande", Verdana, sans-serif;
+	background: #fff7d1;
+	color: #665A4A;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	float: none;
+	clear: both;
+}
+
+a:link      { color: #DD8422; text-decoration: none; background: none; }
+a:visited   { color: #D5AF40; text-decoration: none; background: none; }
+a:hover     { color: #FFB300; text-decoration: underline; background: none; }
+a:active    { color: #ffffff; text-decoration: none; background: #000000; }
+
+.content-wide {
+	margin-top: 90px;
+	float: none;
+	clear: both;
+	margin-bottom: 0;
+	margin-left: 10%; 
+	margin-right: 10%;
+}
+
+.two-column {
+	width: 100%;
+}
+.left-column {
+	float: left;
+	padding-right: 3%;
+	text-align: justify;
+	width: 45%; 
+}
+.right-column {
+	float: right;
+	padding-left: 3%;
+	text-align: justify;
+	width: 45%; 
+}
+
+.left	{ float: left; }
+.right	{ float: right; }
+
+
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4 { /* Opera! */
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, "Lucida Grande", Verdana, sans-serif;
+	background-color: transparent;
+}
+h1 { /* like the semantics, but not the size! */
+	color: #F4B55E;
+	font-size: 1.5em; 
+}
+h2 { 
+	color: #F4B55E;
+	font-size: 1.33em;
+}
+h3 { color: #F8C456; }
+h4 { color: #EFBB05; }
+
+.centered { text-align: center; }
+
+img, table, div { border: 0; }
+
+form { margin: 0; } /* Opera gives form a margin, how nice! *sigh*/
+
+ /*
+ handy spacers..
+ */
+.quarter-space, .small-space, .tiny-space, .clear {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+	clear: both;
+}
+.quarter-space { height: 50px; }
+.small-space { height: 25px; }
+.tiny-space { height: 10px; }
+.clear { font-size: 0; }
+
+/* 
+the HUGE numeric..	*/
+.error {
+	font-family: "Trebuchet MS", Trebuchet, Verdana,  Tahoma, sans-serif; 
+	color: #F4AB3E;
+	text-align: right;
+	font-size: 13em; 
+}
+
+
+.toplink {
+	font-size: 75%;
+	color: #F8C456; 
+	position: fixed; 
+	bottom: 5px; 
+	right: 9px;
+	z-index: 100;
+}
+
+
+#footer {
+	position: fixed;
+	bottom: 15px;
+	font-size: 0.8em;
+	text-align: center;
+	width: 100%;
+}
+
+#footer ul { margin: 0; }
+
+#footer ul li {
+	padding: 0 10px;
+	display: inline;
+}
+
+#footer a:hover {
+	color:#ff9933;
+	background-color: #000;
+	text-decoration: underline;
+}
+
+#footer  a:active { color:#FFF; }

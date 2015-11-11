@@ -1,0 +1,74 @@
+[21-Nov-2013 01:38:23 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 43
+[21-Nov-2013 01:38:23 America/Denver] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 45
+[21-Nov-2013 01:39:24 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 43
+[21-Nov-2013 01:39:24 America/Denver] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 45
+[21-Nov-2013 01:39:24 America/Denver] PHP Notice:  Undefined variable: dn2 in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 101
+[26-Dec-2013 01:07:42 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 43
+[26-Dec-2013 01:07:42 America/Denver] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 45
+[26-Dec-2013 01:08:11 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 43
+[26-Dec-2013 01:08:11 America/Denver] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home3/jetextst/public_html/fern/fernfern/parent/compose.php on line 45
+[08-Jan-2014 02:02:50 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/parent/classList.php on line 5
+[21-Jan-2014 17:01:19 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/parent/2.php on line 275
+[21-Jan-2014 17:01:23 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/parent/2.php on line 275
+[21-Jan-2014 17:01:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/parent/2.php on line 275
+[21-Jan-2014 17:01:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home3/jetextst/public_html/fern/parent/2.php on line 275
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined index: classID in /home3/jetextst/public_html/fern/parent/includes/classMenu.php on line 6
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined variable: course in /home3/jetextst/public_html/fern/parent/2.php on line 17
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined variable: section in /home3/jetextst/public_html/fern/parent/2.php on line 17
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined variable: course in /home3/jetextst/public_html/fern/parent/includes/classbar.php on line 21
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined variable: section in /home3/jetextst/public_html/fern/parent/includes/classbar.php on line 21
+[21-Jan-2014 17:02:30 America/Denver] PHP Notice:  Undefined variable: enrollID in /home3/jetextst/public_html/fern/parent/2.php on line 64
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: course in /home3/jetextst/public_html/fern/parent/records.php on line 18
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: section in /home3/jetextst/public_html/fern/parent/records.php on line 18
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: enrollID in /home3/jetextst/public_html/fern/parent/includes/classbar.php on line 5
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: course in /home3/jetextst/public_html/fern/parent/includes/classbar.php on line 21
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: section in /home3/jetextst/public_html/fern/parent/includes/classbar.php on line 21
+[21-Jan-2014 17:02:37 America/Denver] PHP Notice:  Undefined variable: enrollID in /home3/jetextst/public_html/fern/parent/records.php on line 68
+[22-Jan-2014 02:01:30 America/Denver] PHP Notice:  Undefined index: login in /home3/jetextst/public_html/fern/parent/classList.php on line 5
+[09-Feb-2014 04:15:32 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 04:15:32 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 04:15:32 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 04:15:56 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 04:15:56 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 04:15:56 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 05:13:17 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 05:13:17 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 05:13:17 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 05:13:17 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/classList.php on line 44
+[09-Feb-2014 05:13:20 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 05:13:20 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 05:13:20 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 05:13:20 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/classList.php on line 44
+[09-Feb-2014 06:38:16 America/Denver] PHP Notice:  Undefined index: username in /home3/jetextst/public_html/fern/parent/profile.php on line 9
+[09-Feb-2014 06:38:16 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 06:38:16 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 06:38:16 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 06:38:19 America/Denver] PHP Notice:  Undefined index: username in /home3/jetextst/public_html/fern/parent/classList.php on line 9
+[09-Feb-2014 06:38:19 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 16
+[09-Feb-2014 06:38:19 America/Denver] PHP Notice:  Undefined variable: fname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 06:38:19 America/Denver] PHP Notice:  Undefined variable: lname in /home3/jetextst/public_html/fern/parent/includes/navbar.php on line 36
+[09-Feb-2014 06:38:19 America/Denver] PHP Notice:  Undefined variable: studID in /home3/jetextst/public_html/fern/parent/classList.php on line 44
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: code in /home3/jetextst/public_html/fern/parent/classInformation.php on line 84
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: desc in /home3/jetextst/public_html/fern/parent/classInformation.php on line 88
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: unit in /home3/jetextst/public_html/fern/parent/classInformation.php on line 92
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: sect in /home3/jetextst/public_html/fern/parent/classInformation.php on line 96
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: room in /home3/jetextst/public_html/fern/parent/classInformation.php on line 100
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: day in /home3/jetextst/public_html/fern/parent/classInformation.php on line 104
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: time in /home3/jetextst/public_html/fern/parent/classInformation.php on line 104
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: lname1 in /home3/jetextst/public_html/fern/parent/classInformation.php on line 108
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: fname1 in /home3/jetextst/public_html/fern/parent/classInformation.php on line 108
+[05-Mar-2014 21:12:20 America/Denver] PHP Notice:  Undefined variable: mname1 in /home3/jetextst/public_html/fern/parent/classInformation.php on line 108
+[20-Mar-2014 07:29:35 America/Denver] PHP Warning:  include(): Failed opening 'note.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 103
+[20-Mar-2014 07:29:41 America/Denver] PHP Warning:  include(): Failed opening 'note.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 103
+[20-Mar-2014 08:03:28 America/Denver] PHP Warning:  include(): Failed opening 'classbar.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 102
+[20-Mar-2014 08:03:28 America/Denver] PHP Warning:  include(): Failed opening 'note.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 103
+[20-Mar-2014 08:03:50 America/Denver] PHP Warning:  include(): Failed opening 'classbar.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 102
+[20-Mar-2014 08:03:50 America/Denver] PHP Warning:  include(): Failed opening 'note.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home3/jetextst/public_html/fern/parent/classInformation.php on line 103
+[20-Mar-2014 08:53:57 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:55:04 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:56:22 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:56:25 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:58:15 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:58:45 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:59:09 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51
+[20-Mar-2014 08:59:22 America/Denver] PHP Notice:  Undefined variable: nameID in /home3/jetextst/public_html/fern/parent/includes/note.php on line 51

@@ -1,0 +1,8 @@
+[09-Oct-2013 07:30:46 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/diliman/admin/includes/dbcon.php on line 7
+[09-Oct-2013 09:11:18 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/diliman/admin/includes/dbcon.php on line 7
+[09-Oct-2013 09:46:50 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home3/jetextst/public_html/diliman/admin/includes/dbcon.php on line 7
+[09-Oct-2013 11:37:40 America/Denver] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/diliman/admin/index.php on line 58
+[09-Oct-2013 11:45:14 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/jetextst/public_html/diliman/admin/user.php on line 107
+[09-Oct-2013 11:45:19 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/jetextst/public_html/diliman/admin/user.php on line 107
+[09-Oct-2013 11:53:51 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/jetextst/public_html/diliman/admin/user.php on line 338
+[09-Oct-2013 18:41:43 America/Denver] PHP Notice:  Undefined variable: msg in /home3/jetextst/public_html/diliman/admin/index.php on line 58
